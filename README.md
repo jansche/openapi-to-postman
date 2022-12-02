@@ -1,5 +1,5 @@
 
-![postman icon](https://voyager.postman.com/logo/postman-logo-orange.svg) 
+![postman icon](https://voyager.postman.com/logo/postman-logo-orange.svg | width=600px) 
 
 *Supercharge your API workflow.*  
 *Modern software is built on APIs. Postman helps you develop APIs faster.*
